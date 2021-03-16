@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  display: inline-block;
+}
+
+iframe {
+  border: none;
+}
+
+.banner {
+  width: 320px;
+  height: 100px;
+}
+
+.billboard {
+  width: 970px;
+  height: 250px;
+}
+
+.square {
+  width: 300px;
+  height: 250px;
+}
+
+.half-page {
+  width: 300px;
+  height: 600px;
+  margin-top: 4px;
+  margin-right:4px ;
+}
+
+.youtube {
+  width: 728px;
+  height: 90px;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
